@@ -45,11 +45,7 @@ A Netflix-style movie platform with AI-based suggestions.
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rajdeep-Singh-Tomar\&show_icons=true\&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
